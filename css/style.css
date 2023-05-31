@@ -236,11 +236,12 @@ img {
 }
 
 .home__blob {
-  width: 400px;
-  fill: var(--first-color);
+  background-color: var(--first-color);
+  border-radius: 50%;
+
 }
 .home__blob-img {
-  width: 170px;
+  width: 250px;
 }
 
 .home__data {
